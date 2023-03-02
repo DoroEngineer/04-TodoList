@@ -88,7 +88,6 @@ btnBorrar.addEventListener ('click', () => {
         }
 
     }
-
 });
 
 
