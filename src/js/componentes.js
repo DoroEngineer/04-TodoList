@@ -108,6 +108,8 @@ ulFiltros.addEventListener ('click', (event) => {
         elemento.classList.remove('hidden');
         const completado = elemento.classList.contains('completed');
 
+
+        
         switch( filtro ) {
 
             case 'Pendientes':
@@ -124,7 +126,7 @@ ulFiltros.addEventListener ('click', (event) => {
         }
 
 
-        
+
     }
 
 
