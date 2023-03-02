@@ -9,7 +9,7 @@ module.exports = {
     mode: "production",
     output: {
         clean: true,
-        filename: 'main.[contenhash].js'
+        filename: 'main.[fullhash].js'
     },
 
     module: {
